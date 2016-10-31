@@ -11469,7 +11469,6 @@ _:-ms-input-placeholder, :root .mdl-slider.mdl-slider.is-upgraded {
 .custom-ribbon {
   width: 100%;
   height: 40vh;
-  background-image: url(../assets/Flag_United_Kingdom.svg);
   background-position: center center;
   background-size: cover;
   flex-shrink: 0;
