@@ -11479,8 +11479,8 @@ _:-ms-input-placeholder, :root .mdl-slider.mdl-slider.is-upgraded {
   flex-shrink: 0;
 }
 
-.demo-header .mdl-layout__header-row {
-  padding-left: 40px;
+.custom-header .mdl-layout__header-row {
+  padding-left: calc(56px + 14px);
 }
 
 .demo-container {
@@ -11507,6 +11507,6 @@ _:-ms-input-placeholder, :root .mdl-slider.mdl-slider.is-upgraded {
   padding-left: 40px;
 }
 
-/*.demo-footer .mdl-mini-footer--link-list a {
+.demo-footer .mdl-mini-footer--link-list a {
   font-size: 13px;
-}*/
+}
